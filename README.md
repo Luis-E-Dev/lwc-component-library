@@ -8,7 +8,12 @@ A collection of reusable, production-ready Lightning Web Components for Salesfor
 [Description, features, screenshot, usage example]
 
 ### 2. Custom Modal Dialog
-[Description, features, screenshot, usage example]
+Modal and backdrop created with toast message, with "Success" and "Error" messages
+
+<img width="508" height="118" alt="Screenshot 2025-12-19 at 10 15 47" src="https://github.com/user-attachments/assets/cbe9debd-078e-4144-9279-055465f0cdc4" />
+<img width="568" height="165" alt="Screenshot 2025-12-19 at 10 15 37" src="https://github.com/user-attachments/assets/aa13879d-e6e7-4aa8-a607-9bb3b18de63b" />
+<img width="946" height="567" alt="Screenshot 2025-12-19 at 10 04 21" src="https://github.com/user-attachments/assets/213ff987-157a-4f8e-845a-5c84a2866895" />
+<img width="1850" height="816" alt="Screenshot 2025-12-19 at 10 04 01" src="https://github.com/user-attachments/assets/0daaee8f-5ef7-44d4-811d-362c49de8589" />
 
 ### 3. Toast Notification System
 [Description, features, screenshot, usage example]
