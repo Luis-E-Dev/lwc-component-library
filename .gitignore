@@ -1,0 +1,12 @@
+.sf/
+.sfdx/
+.localdevserver/
+**/lwc/**/*. css. map
+**/lwc/**/*.js.map
+logs
+*. log
+node_modules/
+. eslintcache
+. DS_Store
+. vscode/
+*. org

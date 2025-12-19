@@ -1,0 +1,12 @@
+{
+  "packageDirectories":  [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "lwc-component-library",
+  "namespace": "",
+  "sfdcLoginUrl": "https://orgfarm-d057c098df-dev-ed.develop.my.salesforce.com",
+  "sourceApiVersion": "62.0"
+}

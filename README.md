@@ -9,6 +9,12 @@ A collection of reusable, production-ready Lightning Web Components for Salesfor
 
 ### 2. Custom Modal Dialog
 Modal and backdrop created with toast message, with "Success" and "Error" messages
+**Features:**
+- Configurable sizes (small, medium, large)
+- Flexible content via slots
+- Event-driven architecture
+- Backdrop click to close
+- SLDS compliant
 
 <img width="508" height="118" alt="Screenshot 2025-12-19 at 10 15 47" src="https://github.com/user-attachments/assets/cbe9debd-078e-4144-9279-055465f0cdc4" />
 <img width="568" height="165" alt="Screenshot 2025-12-19 at 10 15 37" src="https://github.com/user-attachments/assets/aa13879d-e6e7-4aa8-a607-9bb3b18de63b" />
