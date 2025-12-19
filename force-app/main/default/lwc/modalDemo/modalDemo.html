@@ -1,0 +1,15 @@
+<template>
+    <lightning-card title="Modal Demo">
+        <lightning-button onclick={openModal} label="Open Modal"></lightning-button>
+        <c-custom-modal is-open={showModal} 
+                        title="Demo Modal" 
+                        size="medium" 
+                        show-footer="true" 
+                        confirm-label="Yes" 
+                        cancel-label="No"
+                        onconfirm={handleModalConfirm} 
+                        oncancel={handleModalCancel}>
+            <slot>Does this look good? If not, what else should be added to make it cooler!😎</slot>
+        </c-custom-modal>
+    </lightning-card>
+</template>
