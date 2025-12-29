@@ -1,0 +1,19 @@
+<template>
+    <div class="dropdown slds-dropdown-trigger slds-dropdown-trigger_click" onkeydown={handleKeyDown}>
+        <lightning-button-menu 
+            label={label}
+            icon-name={iconName}
+            variant={variant}
+            menu-alignment={menuAlignment}
+            onselect={handleMenuItemClick}>
+            <template for:each={menuItems} for:item="item">
+                <lightning-menu-item 
+                    key={item.id}
+                    value={item.value}
+                    label={item.label}
+                    icon-name={item.iconName}>
+                </lightning-menu-item>
+            </template>
+        </lightning-button-menu>
+    </div>
+</template>
